@@ -8,4 +8,4 @@ I would probably go back and improve the diagrams. Adding more specific data wou
 **How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?**
 I read the client’s interview and requirements carefully. Then I put those needs into my diagrams, like letting users log in, choose packages, and book lessons. It is important to think about what the user needs so the system helps them.
 **How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?**
-I’ll start by reading the requirements, then create  UML diagrams to plan the system’s design. In the future, I would also get more feedback from the stakeholders.
+I’ll start by reading the requirements, then create  UML diagrams to plan the system’s design. I would continue using this approach while also gathering more feedback from stakeholders throughout the process to make sure the design meets their needs.
